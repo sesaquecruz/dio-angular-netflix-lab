@@ -1,3 +1,3 @@
-## Recriando a Interface do Netflix - DIO
+## Recriando a Interface da Netflix - DIO
 
-Este repositório contém a solução para o desafio do `Lab Recriando a Interface do Netflix` proposto pela *Digital Innovation One*.
+Este repositório contém a solução para o desafio do `Lab Recriando a Interface da Netflix` proposto pela *Digital Innovation One*.
