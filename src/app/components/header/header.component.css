@@ -1,0 +1,37 @@
+.header-container {
+  height: 10vh;
+  display:flex;
+  flex-direction: row;
+  align-items: center;
+  background-color: black;
+}
+
+.header-logo {
+  width: 50vw;
+}
+
+.header-logo > h1 {
+  margin-left: 1vw;
+  color: red;
+}
+
+.header-menu {
+  width: 50vw;
+}
+
+.header-menu > ol {
+  display: flex;
+  flex-direction: row;
+  justify-content: right;
+  list-style-type: none;
+}
+
+.header-menu > ol > li {
+  margin-right: 1vw;
+  color: #aaa;
+}
+
+.header-menu > ol > li:hover {
+  color: white;
+  cursor: pointer;
+}
